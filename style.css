@@ -72,7 +72,7 @@
       .card {
         padding: 25px;
         border-radius: 10px;
-        box-shadow: 4px 8px 10px var(--grey-dark);
+        box-shadow: 0 4px 8px 0 var(--grey-dark);
       }
       .card1 {
         grid-column: 1 / span 2;
